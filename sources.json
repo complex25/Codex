@@ -1,0 +1,16 @@
+{
+  "sources": [
+    {
+      "name": "Chinet official site",
+      "url": "https://www.mychinet.com/"
+    },
+    {
+      "name": "Wikipedia: Chinet",
+      "url": "https://en.wikipedia.org/wiki/Chinet"
+    },
+    {
+      "name": "Huhtamaki press releases",
+      "url": "https://www.huhtamaki.com/en/media/media-releases/"
+    }
+  ]
+}
